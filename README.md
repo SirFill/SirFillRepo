@@ -24,6 +24,3 @@ Questi sono i plugin disponibili al momento
 | YouTube            | https://www.youtube.com/                               |                Altro                |    🇺🇳    |        ❌        | Puoi incollare l'url di un canale o di una playlist nelle impostazioni del plugin per averli come sezioni nella homepage. Se li vuoi come "serie tv" abiliti i relativi plugin nella ricerca e cercali lì |
 
 [Tutte le repository per cloudstream](https://rentry.org/cs3-repos)
-
-## Donazioni
-[Supportami <3](https://buymeacoffee.com/dogior)
