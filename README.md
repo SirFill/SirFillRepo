@@ -1,8 +1,7 @@
 # [doGior](https://github.com/doGior)'s Had Enough
 
 [Read in english](https://github.com/doGior/doGiorsHadEnough/blob/master/README_en.md) <br><br>
-Ciao sono doGior e sono stanco di cercare plugin per Cloudstream che finiscono per non funzionare
-ed essere abbandonati, quindi ho deciso di creare una mia repository.
+Ciao! Sono SirFill e sto cercando di imparare a gestire una repository Git. Ho copiato la repo del magnifico doGior e farò del mio meglio per mantenerla al meglio.
 
 ## Installazione
 
