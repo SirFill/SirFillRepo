@@ -3,14 +3,6 @@
 [Read in english](https://github.com/doGior/doGiorsHadEnough/blob/master/README_en.md) <br><br>
 Ciao! Sono SirFill e sto cercando di imparare a gestire una repository Git. Ho copiato la repo del magnifico [doGior](https://github.com/doGior) e farò del mio meglio per mantenerla al meglio.
 
-## Installazione
-
-Clicca sulla pizza per installare la repo oppure vai in *Impostazioni* -> *Estensioni* -> *Aggiungi
-repository* e nel campo URL scrivi **doGior**
-<p align="center">
-  <img alt="alt_text" width="200px" src="pizza.png"/>
-</p>
-
 ### Plugin
 Questi sono i plugin disponibili al momento
 | **Nome**           | **Sito**                                               |            **Categorie**            | **Lingua** | **Funzionante** | **Note**                                                                                                                                                                                                  |
